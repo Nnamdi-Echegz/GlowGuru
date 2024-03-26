@@ -18,24 +18,7 @@ import img18 from '../assets/img18.png'
 import img19 from '../assets/img19.png'
 import img20 from '../assets/img20.png'
 
-export const SliderProducts = [{
-    name: 'SKIN',
-    detail: 'Super Skin Care',
-    price: '30',
-    img: img18
-},
-{
-    name: 'SKIN',
-    detail: 'Super Skin Care',
-    price: '30',
-    img: img19
-},
-{
-    name: 'SKIN',
-    detail: 'Super Skin Care',
-    price: '30',
-    img: img20
-},
+export const SliderProducts = [
 {
     name: 'SKIN',
     detail: 'Super Skin Care',
