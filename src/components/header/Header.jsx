@@ -14,10 +14,10 @@ const Header = () => {
       <div className={css.right}>
         <div className={css.menu}>
           <ul className={css.menu}>
-            <li>Collections</li>
-            <li>Brands</li>
-            <li>New</li>
-            <li>Sales</li>
+            <li>Trending</li>
+            <li>Demo</li>
+            <li>Products</li>
+            <li>Reviews</li>
             <li>ENG</li>
           </ul>
         </div>
