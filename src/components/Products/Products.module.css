@@ -62,10 +62,24 @@
     height: 11rem;
 }
 
+@media screen and (max-width: 856px){
+    .container{
+        grid-area: 1rem;
+    }
 
-/* .sliderImgCont{
-    display: flex;
-    border: 2px black solid;
-    width: 65%;
-    justify-content: flex-end;
-} */
+    .container>:nth-child(1){
+        display: none;
+    }
+
+    .products{
+        grid-template-columns: none;
+        gap: 1rem;
+    }
+    .menu{
+        flex-direction: row;
+    }
+    .menu>li{
+        border-top: 2px solid skyblue; 
+        font-weight: bold;  
+    }
+}

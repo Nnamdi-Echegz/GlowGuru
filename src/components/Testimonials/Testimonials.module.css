@@ -94,3 +94,7 @@
 .testimonial>span:nth-of-type(2){
     font-weight: 500;
 }
+
+@media screen and (max-width: 856px){
+    
+}

@@ -6,7 +6,6 @@ import {
   PhoneIcon,
   LocationMarkerIcon,
   LoginIcon,
-  UserIcon,
   LinkIcon,
   UsersIcon,
 } from "@heroicons/react/outline";

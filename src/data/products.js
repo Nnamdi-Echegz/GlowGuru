@@ -12,11 +12,7 @@ import img11 from '../assets/img11.png'
 import img12 from '../assets/img12.png'
 import img13 from '../assets/img13.png'
 import img14 from '../assets/img14.png'
-import img15 from '../assets/img15.png'
-import img17 from '../assets/img17.png'
-import img18 from '../assets/img18.png'
-import img19 from '../assets/img19.png'
-import img20 from '../assets/img20.png'
+
 
 export const SliderProducts = [
 {
@@ -24,6 +20,13 @@ export const SliderProducts = [
     detail: 'Super Skin Care',
     price: '25',
     img: img1
+},
+{
+    name: 'NATURE',
+    detail: 'Super Skin Care',
+    price: '25',
+    img: img6,
+    type: 'skin care',
 },
 {
     name: 'SKIN',
