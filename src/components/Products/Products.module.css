@@ -83,3 +83,16 @@
         font-weight: bold;  
     }
 }
+
+@media screen and (max-width: 640px){
+    .menu{
+        margin-left: -2rem;
+        gap: 1rem;
+        flex-wrap: wrap;
+        width: 100%;
+        font-size: 1.1rem;
+    }
+    .container h1{
+        text-align: center;
+    }
+}

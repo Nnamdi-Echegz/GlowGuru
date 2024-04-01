@@ -6,7 +6,7 @@ import {TestimonialsData} from "../../data/testimonials"
 
 const Testimonials = () => {
   return (
-    <div className={css.testimonials}>
+    <div id="reviewsSec" className={css.testimonials}>
       <div className={css.wrapper}>
         <div className={css.container}>
         <span>Still Doubting?</span>

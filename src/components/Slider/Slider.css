@@ -1,5 +1,6 @@
 .s-container{
     position: relative;
+    margin-top: 3rem;
 }
 
 .s-container .swiper{
@@ -81,6 +82,7 @@
     bottom: -20%;
     
 }
+
 
 @media screen and (max-width: 856px){
     .s-container .swiper{

@@ -86,7 +86,7 @@
     .menu{
         flex-direction: column;
         margin-left: -2rem;
-        display: none;
+        /* display: none; */
     }
 
     .bars{
@@ -94,5 +94,10 @@
     }
     .search{
         display: none;
+    }
+
+    .container{
+        border-bottom: 0;
+       
     }
 }

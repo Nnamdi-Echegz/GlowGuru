@@ -25,7 +25,7 @@ const Footer = () => {
             <span>Contact Us</span>
             <span className={css.pngLine}>
               <LocationMarkerIcon className={css.icon} />
-              <span>111 north avenue Orlando, FL 32801</span>
+              <span>111 north avenue, H2E 8F1, Ottawa, Ontario</span>
             </span>
 
             <span className={css.pngLine}>

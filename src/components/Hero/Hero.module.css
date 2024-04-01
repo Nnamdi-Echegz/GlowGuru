@@ -127,6 +127,7 @@
     font-size: 2.5rem;
 }
 
+
 @media screen and (max-width: 856px){
     .text1, .text2>span:nth-of-type(2) {
         font-size: 0.9rem;
@@ -167,7 +168,23 @@
         justify-content: space-around;
         margin: 2rem 0rem;
     }
-    /* .cart2{
 
-    } */
+}
+
+@media screen and (max-width: 640px){
+    .bluecircle{
+        top: 0;
+        width: 15rem;
+        height: 60%;
+    }
+
+    .wrapper>img{
+        top: 2rem;
+        width: 10rem;
+        height: 15rem;
+    }
+
+    .cart2{
+        display: none;
+    }
 }

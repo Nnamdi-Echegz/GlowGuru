@@ -7,7 +7,7 @@ import { motion } from "framer-motion";
 const Hero = () => {
   const transition = { duration: 3, type: "spring" };
   return (
-    <div className={css.container}>
+    <div id="heroSec" className={css.container}>
       {/**Left container */}
       <div className={css.h_sides}>
         <span className={css.text1}>skin protection cream</span>
